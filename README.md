@@ -1,4 +1,3 @@
-
 <p align="center">
 <h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />Top-Conference-WeChat-Group</h1>
 </p>
@@ -32,22 +31,23 @@
 
 ## <img src="./imgs/icon/notes.png" width="25" /> 群信息
 
-
 | 顶会会议                                                         | 截稿日期                                                                                                         | 交流群管理员微信                                                                                                     |上岸群管理员微信                    | QA文档
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | <a href="https://cvpr2022.thecvf.com/"><img src="./imgs/cover/cvpr22.png"  width="170" height="40"/></a> | Deadline: Nov 18 2021 11:59:00 Pacific Time |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a>| <a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |
-| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> |  |
+| <a href="https://eccv2022.ecva.net/"><img src="./imgs/cover/01.png"  width="170" /></a> | Deadline: Mar 08 2022 04:59:00 GMT+0800 |<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a> || 
+| <a href="https://www.cikm2022.org//"><img src="https://pic1.zhimg.com/80/v2-366d481aa8fe0840f3f43939efdc6107_720w.png"  width="170" /></a> | Deadline: May 09, 2022 23:59:00 Anywhere on Earth |<a href="https://pica.zhimg.com/80/v2-44bef2b640d9ae21d8f317bfa007e570_720w.jpeg"> 电子科技大学 毛海涛  <div align="center"> <img src="https://pic1.zhimg.com/80/v2-d445b1affd7d3fa4ffb9d40b7e3bc854_720w.png" alt="image" width="80" /> </div> </a> ||
 
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织
-  
+
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/jiaqi.png"  width="80" /></a> 
 <a href="https://github.com/liucongg"><img src="./imgs/profile/logCong.png"  width="80" /></a> 
 <a href="https://yihengshu.github.io">  <img src="./imgs/profile/yiheng.png"  width="80" /></a> 
 <a href="https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en">  <img src="./imgs/profile/yongfei.png"  width="80" /></a> 
 <a href="https://github.com/mathgirl796"> <img src="./imgs/profile/aduan.png"  width="80" /></a> 
 <a href="https://scholar.google.com/citations?user=pU8oCuIAAAAJ&hl=zh-CN"> <img src="./imgs/profile/leishen.png"  width="80" /></a> 
+
 
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
@@ -59,3 +59,4 @@
 <a href="https://github.com/mathgirl796"> <img src="./imgs/profile/aduan.png"  width="80" /></a> 
 <a href="https://scholar.google.com/citations?user=pU8oCuIAAAAJ&hl=zh-CN"> <img src="./imgs/profile/leishen.png"  width="80" /></a> 
 <a href="https://enshengshi.github.io">  <img src="./imgs/profile/ensheng.png"  width="80" /></a>
+<a href="https://huanhuqueyue.github.io/personal-page/me/"> <img src="https://pic1.zhimg.com/80/v2-d445b1affd7d3fa4ffb9d40b7e3bc854_720w.png"  width="80" /></a> 
